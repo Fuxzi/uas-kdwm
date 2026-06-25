@@ -1,1 +1,6 @@
-# uas-kdwm
+# UAS KONSEP DATA WAREHOUSE DAN MINING
+
+NAMA : FAHRI ILHAM MUZZAKI
+NIM : 1224160057
+KELAS : SI 24 SIM (MALAM)
+Link YouTube review : https://youtu.be/2gDG6iOtsRc
