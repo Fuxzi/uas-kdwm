@@ -3,4 +3,5 @@
 NAMA : FAHRI ILHAM MUZZAKI<br>
 NIM : 1224160057<br>
 KELAS : SI 24 SIM (MALAM)<br>
-Link YouTube review : https://youtu.be/2gDG6iOtsRc
+Link YouTube review : https://youtu.be/2gDG6iOtsRc <br>
+Link Google Sites : https://sites.google.com/view/fahri-ilham/projects
